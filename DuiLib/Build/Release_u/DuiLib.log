@@ -1,0 +1,44 @@
+﻿  StdAfx.cpp
+c:\users\administrator\desktop\dui\duivs2012\duilib\Control/UIFlash.h(10): warning C4192: 导入类型库“IServiceProvider”时自动排除“..\Utils/Flash11.tlb”
+  UIlib.cpp
+  WinImplBase.cpp
+  UIDelegate.cpp
+  Utils.cpp
+  UIBase.cpp
+  UIContainer.cpp
+  UIControl.cpp
+  UIDlgBuilder.cpp
+  UIManager.cpp
+  UIMarkup.cpp
+  UIRender.cpp
+  UIChildLayout.cpp
+  UIHorizontalLayout.cpp
+  UITabLayout.cpp
+  UITileLayout.cpp
+  UIVerticalLayout.cpp
+  UIActiveX.cpp
+  UIButton.cpp
+  UICheckBox.cpp
+  UICombo.cpp
+  正在生成代码...
+  正在编译...
+  UIComboBox.cpp
+  UIDateTime.cpp
+  UIEdit.cpp
+  UIFlash.cpp
+  UILabel.cpp
+  UIList.cpp
+  UIOption.cpp
+  UIProgress.cpp
+  UIRichEdit.cpp
+  UIScrollBar.cpp
+  UISlider.cpp
+  UIText.cpp
+  UITreeView.cpp
+  UIWebBrowser.cpp
+c:\program files (x86)\windows kits\8.0\include\um\dispex.h(74): warning C4091: “typedef ”: 没有声明变量时忽略“ICanHandleException”的左侧
+  正在生成代码...
+  stb_image.c
+  XUnzip.cpp
+     正在创建库 ../Lib/DuiLib_u.lib 和对象 ../Lib/DuiLib_u.exp
+  DuiLib.vcxproj -> C:\Users\Administrator\Desktop\DUI\duiVS2012\DuiLib\..\bin\DuiLib_u.dll
